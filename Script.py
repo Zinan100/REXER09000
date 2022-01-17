@@ -9,7 +9,7 @@ class script(object):
 ╔═════❰ ᏒΞᎠFOX ❱══⪼𒆜
 ║╭━━━━━━━━━━━━━━━⏤͟͟͞͞★ 
 ║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/RedFoxx_Bot"> ᏒΞᎠFOX </a>
-║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/Aadhi010"> 𝙰𝙰𝙳𝙷𝙸 </a>
+║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/Zinan00100"> ZINAN TECH 2.O</a>
 ║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -17,11 +17,9 @@ class script(object):
 ║┣⪼ 𝙱𝚄𝙸𝙻𝚃 𝚂𝚃𝙰𝚃𝚂 - v1.0.2 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━⏤͟͟͞͞★ ╚══════════════════⪼𒆜"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
+<a href="https://t.me/moviespot00100"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
