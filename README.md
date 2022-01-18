@@ -3,7 +3,7 @@
  ⚚ ℭ𝔩𝔦𝔠𝔨 𝔗𝔥𝔢 ℑ𝔪𝔞𝔤𝔢 𝔗𝔬 𝔇𝔢𝔭𝔩𝔬𝔶 𝔜𝔬𝔲𝔯 𝔄𝔭𝔭 ⚚
 
 
-[![Deploy](https://telegra.ph/file/37d5862e978b6aaeb1b37.jpg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/Red-Fox)
+[![Deploy](https://telegra.ph/file/37d5862e978b6aaeb1b37.jpg)](https://heroku.com/deploy?template=https://github.com/Zinan100/Red-Fox.git)
 
 - [x] Auto Filter
 - [x] Manuel Filter
