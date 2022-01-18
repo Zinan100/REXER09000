@@ -1,6 +1,6 @@
 # <b>𝐑𝐄𝐗𝐄𝐑</b>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝐑𝐄𝐗𝐄𝐑!;created+by+zinan+tech+2+.+O!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+other+features!;⚠️+if+you+need+menu+check+down+⚠️!)
- ⚚ ℭ𝔩𝔦𝔠𝔨 𝔗𝔥𝔢 ℑ𝔪𝔞𝔤𝔢 𝔗𝔬 𝔇𝔢𝔭𝔩𝔬𝔶 𝔜𝔬𝔲𝔯 𝔄𝔭𝔭 ⚚
+ 
 # <b>BOT MENU</b>
            copy and paste it on bot father /mybots and click your bot and click on edit bot then click edit commands and paste it on there
 
@@ -22,7 +22,7 @@
 
 
 
-
+# <b>⚚ ℭ𝔩𝔦𝔠𝔨 𝔗𝔥𝔢 ℑ𝔪𝔞𝔤𝔢 𝔗𝔬 𝔇𝔢𝔭𝔩𝔬𝔶 𝔜𝔬𝔲𝔯 𝔄𝔭𝔭 ⚚</b>
 
 [![Deploy](https://telegra.ph/file/37d5862e978b6aaeb1b37.jpg)](https://heroku.com/deploy?template=https://github.com/Zinan100/Red-Fox.git)
 
