@@ -19,7 +19,7 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/moviespot00100"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
+<a href="https://t.me/Zinan00100"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
