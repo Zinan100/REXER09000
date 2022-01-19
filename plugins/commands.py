@@ -158,7 +158,8 @@ async def log_file(bot, message):
 
 @Client.on_message(filters.command('delete') & filters.user(ADMINS))
 async def delete(bot, message):
-    """Delete file from database"""reply = message.reply_to_message
+    """Delete file from database""
+"reply = message.reply_to_message
     if reply and reply.media:
         msg = await message.reply("𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥....🙈", quote=True)
     else:
