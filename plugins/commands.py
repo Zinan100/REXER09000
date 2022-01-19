@@ -44,12 +44,8 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('𝐇𝐞𝐥𝐩', callback_data='help'),
             InlineKeyboardButton('𝐀𝐛𝐨𝐮𝐭', callback_data='about')
-            ]
-            [
-                InlineKeyboardButton('👨🏻‍💻DEV👨🏻‍💻', url=f"https://t.me/Zinan00100"),
-            ]
-        
-        reply_markup = InlineKeyboardMarkup(buttons)
+            ]]
+             reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -88,11 +84,7 @@ async def start(client, message):
             InlineKeyboardButton('𝐂𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/moviespot00100')
             ],[
             InlineKeyboardButton('𝐇𝐞𝐥𝐩', callback_data='help'),
-            InlineKeyboardButton('𝐀𝐛𝐨𝐮𝐭', callback_data='about')
-            ]
-            [
-                InlineKeyboardButton('👨🏻‍💻DEV👨🏻‍💻', url=f"https://t.me/Zinan00100"),
-            ]
+            InlineKeyboardButton('𝐀𝐛𝐨𝐮𝐭', callback_data='about'),
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
